@@ -9,3 +9,4 @@ def max_val(arr):
 
 print("Hello, COSE450")
 print("2 + 3 = ", add(2,3))
+print("maximum:", max_val([1,5,3]))
