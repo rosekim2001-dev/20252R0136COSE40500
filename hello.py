@@ -1,4 +1,5 @@
 # Version 2: Added basic description
+# Time Complexity: O(1)
 
 def add(a,b):
 	return a+b
